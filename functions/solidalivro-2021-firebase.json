@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "solidalivro-2021",
+  "private_key_id": "5636cd1c4a91213ba6d44156117b3cc75f93ccfa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDa2WHefQyuJElA\nUpGqegThVEqT4kfEV5EnyBQxsDXnd9hLnUWc7r/gqHwamhdTE/VArfDd5Y4SogMO\nY2Mf23OaHcGYi3idcNWSDd6zQFlCb5NnCxpySXBOB/cKiXlcRZF0ESL1/BIbqc69\n82+Y5yda2IjcsSit/B2ZDg9y4tsqOamVpTBDz9VawlYUNsPD7hltclaA4Frwhr5G\n1mQDhIB0/yV4dRIaYnr1CpIWq98+N1JMxbkYbUGEV8CTnhvCc6W/+CHWBH2lgZ0v\n+dIV4iYJ8nVu+i2WhzH4V1b/ARsf+wNAlm7Rw/FCyuNGn2rWijkgADBvWxS/UdoY\nfLKyu1nZAgMBAAECgf9QlGGgI2x2dV9cO20QP3UeoMOcgxKolohzqaWrz+NVxL86\nWUGcWI6wJqulYmD9OkTfJpBLUfIwcKaECYOOiEv2+vgNt91zGXPDiMz+2YuZBKvU\n/5nS7oy5Y/5t63c9cmAKsE1Hsa4RxXLThShlJxydV/M91DnlJXFpq1W8jGQxo6f3\nJbX/caJea0BDh94/sYLyofeXXnOQ5pr9+hQ9uQ+WrhDXvXZ83FXF61BIWpb1pDHG\nhDLf45Vs6NYsCu/Gmj44UQE1jFaZ1KMXIS38pF7+giDYb2D3L2GxBwIX2jS5pUtF\nKArNROORqtnWFp+OtKSsNXmd3NcUU5Kv0eczefECgYEA7XZAVrLmViIEFyMFdel8\n3FkD9ZNYnJbM8iBZ+5JuSwUqmLtNdZ7cLaMI+S0bubpSaz+yXsWecT+9fBSJIkku\n/rUrkqLdPcAaqmq71sNXybFlFTHJ8TWokwyu0K2OaH2JKZUYX77b08BFP5WoCWzD\nzs1flNU+Nexbmd+NL0iKwb8CgYEA6+8mLIFgtOmrPS4ScRlQ7jgg9BUr9lVY8Mah\ndGazHCXW3o+OyIPSWkxvs2aB5rCANge9GOyP+lysPrR8FTe2PURK86Q10/XKi22d\n6nsC4fe8mDB1Cxg74+uXR8VKa6ZI5BJVFgAAVuQqD6ZQS0RY/SpxpxfEwHZOnCSs\nTM9GGmcCgYEApQRjK5zBEqQq4YU12z35xgqaBMNzdcYaADzZK0kUGlApzN+EsbNG\n4PQGXVqqhMPlWKB4LQH53EtmO17t+YSQAvMVp55ETxA7t6fahyFS1VfQngzugBBA\n6IeMyHmDmDt84Qe6W3b/vsRDmy8+CeaqoAD6ZixWQhTRhzniHDS2MHMCgYB81Jy7\nAX0cW2Hpzd2eD4n9cJ8m5ajL/d5ADqhQQSJVK0Qjn4spVm3OrxCOuBbU6t/7Nl77\nt/Z5vdy4lJ/uTfrTMbYCcQi17B9NZCMgdBNTYdNcJo9W3myZrAXvyFgW2vVIDtcL\n+9YyIyiJ/TIQkMoQsQtPIElOl4oCHXk4bpal0wKBgGChQ//iX+au/28dd8bxrDuD\ne7Cuei7FErilhBxncK1A+8HlG/TcR6rjixJ0KdfK8oRxHSHJ2agW9nP3AUHbyc3q\nf0ZCRQ+x5/m5J9hsI8SuSyOCdqBcP0rVo7vMpznfUfed5mybPJ/DZf5rx32qFR5Z\nXT8yng+UI83FA4HzQPI3\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-9ymet@solidalivro-2021.iam.gserviceaccount.com",
+  "client_id": "105664932681424751348",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-9ymet%40solidalivro-2021.iam.gserviceaccount.com"
+}
